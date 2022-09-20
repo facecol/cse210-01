@@ -1,3 +1,2 @@
 # cse210-01
-Tic-tac-toe assignment
-A simple Tic-tac-toe game
+A simple Tic-tac-toe game done as part of an assignment
